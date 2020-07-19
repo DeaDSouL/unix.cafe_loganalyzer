@@ -2,8 +2,8 @@
 # vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4 foldmethod=marker
 # ----------------------------------------------------------------------
 # Author:   DeaDSouL (Mubarak Alrashidi)
-# URL:      https://unix.cafe/
-# GitHub:   https://github.com/DeaDSouL/unix.cafe_centos8_loganalyzer
+# URL:      https://unix.cafe/wp/en/2020/07/setup-a-minimal-lamp-server-for-loganalyzer-on-centos-8/
+# GitHub:   https://github.com/DeaDSouL/unix.cafe_loganalyzer
 # Twitter:  https://twitter.com/_DeaDSouL_
 # License:  GPLv3
 # ----------------------------------------------------------------------
