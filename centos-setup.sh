@@ -3,7 +3,7 @@
 # ----------------------------------------------------------------------
 # Author:   DeaDSouL (Mubarak Alrashidi)
 # URL:      https://unix.cafe/wp/en/2020/07/setup-a-minimal-lamp-server-for-loganalyzer-on-centos-8/
-# GitHub:   https://github.com/DeaDSouL/unix.cafe_loganalyzer
+# GitLab:   https://gitlab.com/unix.cafe/loganalyzer
 # Twitter:  https://twitter.com/_DeaDSouL_
 # License:  GPLv3
 # ----------------------------------------------------------------------
